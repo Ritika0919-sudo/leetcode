@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritika0919-sudo/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritika0919-sudo/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ritika0919-sudo/leetcode/tree/master/0283-move-zeroes) |
+| [1383-maximum-performance-of-a-team](https://github.com/Ritika0919-sudo/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1995-count-special-quadruplets](https://github.com/Ritika0919-sudo/leetcode/tree/master/1995-count-special-quadruplets) |
 ## Two Pointers
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ritika0919-sudo/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ritika0919-sudo/leetcode/tree/master/0018-4sum) |
+| [1383-maximum-performance-of-a-team](https://github.com/Ritika0919-sudo/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/Ritika0919-sudo/leetcode/tree/master/1995-count-special-quadruplets) |
+## Greedy
+|  |
+| ------- |
+| [1383-maximum-performance-of-a-team](https://github.com/Ritika0919-sudo/leetcode/tree/master/1383-maximum-performance-of-a-team) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1383-maximum-performance-of-a-team](https://github.com/Ritika0919-sudo/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 <!---LeetCode Topics End-->
