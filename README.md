@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1383-maximum-performance-of-a-team](https://github.com/Ritika0919-sudo/leetcode/tree/master/1383-maximum-performance-of-a-team) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Ritika0919-sudo/leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
