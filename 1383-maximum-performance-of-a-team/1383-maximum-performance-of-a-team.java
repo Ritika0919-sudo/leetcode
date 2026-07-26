@@ -1,31 +1,37 @@
-class Engineer{
-    int speed;
-    int efficiency;
-    Engineer(int speed,int efficiency){
-        this.speed=speed;
-        this.efficiency=efficiency;
-    }
-}
 class Solution {
     public int maxPerformance(int n, int[] speed, int[] efficiency, int k) {
-        List<Engineer>  engineers = new ArrayList<>();
-        for(int i=0;i<n;i++){
-            engineers.add(new  Engineer(speed[i],efficiency[i]));
+
+        int[][] engineers = new int[n][2];
+
+        for (int i = 0; i < n; i++) {
+            engineers[i][0] = efficiency[i];
+            engineers[i][1] = speed[i];
         }
-        engineers.sort((a,b)->b.efficiency - a.efficiency);
-        PriorityQueue<Engineer> currentTeam = new PriorityQueue<>((a,b)->a.speed-b.speed);
-        long teamSpeed=0;
+
+        Arrays.sort(engineers, (a, b) -> b[0] - a[0]);
+
+        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
+
+        long speedSum = 0;
         long maxPerformance = 0;
-        for(Engineer newHire:engineers){
-            if(currentTeam.size()==k){
-                Engineer slowGuy = currentTeam.poll();
-                teamSpeed-=slowGuy.speed;
+        int MOD = 1000000007;
+
+        for (int[] engineer : engineers) {
+
+            int currEfficiency = engineer[0];
+            int currSpeed = engineer[1];
+
+            minHeap.offer(currSpeed);
+            speedSum += currSpeed;
+
+            if (minHeap.size() > k) {
+                speedSum -= minHeap.poll();
             }
-            currentTeam.add(newHire);
-            teamSpeed+=newHire.speed;
-            long performaceWithNewGuy = teamSpeed * (long) newHire.efficiency;
-            maxPerformance=Math.max(performaceWithNewGuy,maxPerformance);
+
+            maxPerformance = Math.max(maxPerformance,
+                    speedSum * currEfficiency);
         }
-        return (int)(maxPerformance%1000000007);
+
+        return (int)(maxPerformance % MOD);
     }
 }
