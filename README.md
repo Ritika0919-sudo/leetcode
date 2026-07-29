@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritika0919-sudo/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ritika0919-sudo/leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Ritika0919-sudo/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Ritika0919-sudo/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Ritika0919-sudo/leetcode/tree/master/0682-baseball-game) |
 | [1383-maximum-performance-of-a-team](https://github.com/Ritika0919-sudo/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1995-count-special-quadruplets](https://github.com/Ritika0919-sudo/leetcode/tree/master/1995-count-special-quadruplets) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ritika0919-sudo/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Ritika0919-sudo/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Ritika0919-sudo/leetcode/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -84,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ritika0919-sudo/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Ritika0919-sudo/leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
