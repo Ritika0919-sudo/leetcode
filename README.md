@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritika0919-sudo/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritika0919-sudo/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ritika0919-sudo/leetcode/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/Ritika0919-sudo/leetcode/tree/master/0682-baseball-game) |
 | [1383-maximum-performance-of-a-team](https://github.com/Ritika0919-sudo/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1995-count-special-quadruplets](https://github.com/Ritika0919-sudo/leetcode/tree/master/1995-count-special-quadruplets) |
 ## Two Pointers
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ritika0919-sudo/leetcode/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Ritika0919-sudo/leetcode/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Ritika0919-sudo/leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
