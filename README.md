@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ritika0919-sudo/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ritika0919-sudo/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ritika0919-sudo/leetcode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Ritika0919-sudo/leetcode/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ritika0919-sudo/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ritika0919-sudo/leetcode/tree/master/0283-move-zeroes) |
 | [1383-maximum-performance-of-a-team](https://github.com/Ritika0919-sudo/leetcode/tree/master/1383-maximum-performance-of-a-team) |
@@ -56,8 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ritika0919-sudo/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Ritika0919-sudo/leetcode/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ritika0919-sudo/leetcode/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ritika0919-sudo/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
