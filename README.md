@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Ritika0919-sudo/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0496-next-greater-element-i](https://github.com/Ritika0919-sudo/leetcode/tree/master/0496-next-greater-element-i) |
 | [1995-count-special-quadruplets](https://github.com/Ritika0919-sudo/leetcode/tree/master/1995-count-special-quadruplets) |
 ## Enumeration
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ritika0919-sudo/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ritika0919-sudo/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ritika0919-sudo/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Ritika0919-sudo/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/Ritika0919-sudo/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Ritika0919-sudo/leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Ritika0919-sudo/leetcode/tree/master/0392-is-subsequence) |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ritika0919-sudo/leetcode/tree/master/0029-divide-two-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Ritika0919-sudo/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 <!---LeetCode Topics End-->
