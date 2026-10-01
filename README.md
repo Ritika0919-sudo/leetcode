@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Ritika0919-sudo/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Ritika0919-sudo/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Ritika0919-sudo/leetcode/tree/master/0739-daily-temperatures) |
+| [1046-last-stone-weight](https://github.com/Ritika0919-sudo/leetcode/tree/master/1046-last-stone-weight) |
 | [1383-maximum-performance-of-a-team](https://github.com/Ritika0919-sudo/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1995-count-special-quadruplets](https://github.com/Ritika0919-sudo/leetcode/tree/master/1995-count-special-quadruplets) |
 ## Two Pointers
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/Ritika0919-sudo/leetcode/tree/master/1046-last-stone-weight) |
 | [1383-maximum-performance-of-a-team](https://github.com/Ritika0919-sudo/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 ## String
 |  |
