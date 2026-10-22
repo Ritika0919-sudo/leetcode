@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ritika0919-sudo/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ritika0919-sudo/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ritika0919-sudo/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Ritika0919-sudo/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritika0919-sudo/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Ritika0919-sudo/leetcode/tree/master/0392-is-subsequence) |
 ## Backtracking
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Ritika0919-sudo/leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Ritika0919-sudo/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Ritika0919-sudo/leetcode/tree/master/0070-climbing-stairs) |
 ## Newton's Method
 |  |
 | ------- |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ritika0919-sudo/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ritika0919-sudo/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
